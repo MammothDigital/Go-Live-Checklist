@@ -60,4 +60,4 @@
 
 ## 6. WordPress
 
-Make sure search engine indexing is switched in – `Settings / Reading / Search Engine Visibility`
+1. Make sure search engine indexing is switched in – `Settings / Reading / Search Engine Visibility`
